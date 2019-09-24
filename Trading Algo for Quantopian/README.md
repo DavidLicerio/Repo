@@ -1,4 +1,4 @@
-# Project Title
+# Trading Algorithm
 
 This program was used and made on the algorithmic trading site quantopian and utilizes its available tools. No output is shown as it is not possible to show the data in jupyter, since it is ran in quantopia using their tools.
 
