@@ -4,6 +4,6 @@ In this project, data is first gathered from yahoo finance using pandas DataRead
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+David Licerio
 
 
