@@ -1,0 +1,1 @@
+This notebook contains an MLP model made from scratch and compares the metrics of MLP models using different methods of optmization including gradient descent, stochastic gradient descent and batch gradient descent.
