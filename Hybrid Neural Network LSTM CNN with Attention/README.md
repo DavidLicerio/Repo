@@ -1,0 +1,1 @@
+This notebook contains a hybrid neural network using LSTM, CNN, and an attention layer. The combination is better than either alone, and the attention layer further increases the model's ability to identify trends. Two models are created, one using stationary data and the other using non-stationary data. The stationary data improves the model's performance drastically.
