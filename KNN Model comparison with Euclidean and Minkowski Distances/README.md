@@ -1,0 +1,1 @@
+This jupyer notebook contains a comparison of KNN models using cross-validation and different hyperparamters including distance, number of neighbors and p. The models are compared using the root mean squared error metric. 
